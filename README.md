@@ -1,1 +1,2 @@
-# Group_project1
+# Group project 1
+SBER university, Data Science course, group project 1
